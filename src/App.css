@@ -1,0 +1,11 @@
+.app-container {
+    min-height: 100vh; 
+  }
+  
+  .app-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  

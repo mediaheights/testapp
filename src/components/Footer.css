@@ -1,0 +1,17 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; 
+}
+
+.footer-content {
+  background-color: yellow;
+  color: black;
+  padding: 20px; 
+  width: 100%; 
+  text-align: center;                           
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
